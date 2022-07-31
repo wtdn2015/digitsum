@@ -1,0 +1,16 @@
+# 海龟画图，图形化程序设计
+import turtle
+turtle.showturtle()
+turtle.write("威杰")
+turtle.forward(200)
+turtle.color("blue")
+turtle.left(90)
+turtle.forward(300)
+turtle.goto(0,50)
+turtle.goto(0,0)
+turtle.penup()
+turtle.goto(0,300)
+turtle.goto(0,0)
+turtle.pendown()
+turtle.goto(50,50)
+turtle.circle(200)
